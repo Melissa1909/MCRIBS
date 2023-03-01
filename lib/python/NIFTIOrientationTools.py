@@ -2,6 +2,7 @@
 
 import numpy
 import nibabel
+from nibabel import get_affine ##ADDED
 import os
 import sys
 
