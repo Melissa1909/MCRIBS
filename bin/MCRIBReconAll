@@ -236,6 +236,7 @@ def main():
     # find ITKConfig.cmake in scriptPath/ITK/ITK-install
 
     os.chdir(os.path.join(scriptPath, '..', '..', 'ITK', 'ITK'))
+    #os.chdir(os.path.join(scriptPath, '..', 'ITK', 'ITK'))
 
     gitProcess = subprocess.run(['git', 'rev-parse', 'HEAD'], stdout = subprocess.PIPE)
     ITKGitHash = gitProcess.stdout.decode("utf-8").rstrip()
@@ -244,9 +245,10 @@ def main():
 
     ITKConfigFileName = None
 
-    for root, dirs, files in os.walk(os.path.join(scriptPath, '..', 'ITK', 'ITK-install')):
-        if "ITKConfig.cmake" in files:
-            ITKConfigFileName = os.path.join(root, "ITKConfig.cmake")
+    for root, dirs, files in os.walk(os.path.join(scriptPath, '..', 'ITK', 'ITK','CMake')):
+        if "ITKConfig.cmake.in" in files:
+            ITKConfigFileName = os.path.join(root, "ITKConfig.cmake.in")
+            print("HERE")
             break
 
     if not ITKConfigFileName is None:
@@ -282,6 +284,7 @@ def main():
 
     # get VTK version
     os.chdir(os.path.join(scriptPath, '..', '..', 'VTK', 'VTK'))
+    #os.chdir(os.path.join(scriptPath, '..', 'VTK', 'VTK'))
 
     gitProcess = subprocess.run(['git', 'rev-parse', 'HEAD'], stdout = subprocess.PIPE)
     VTKGitHash = gitProcess.stdout.decode("utf-8").rstrip()

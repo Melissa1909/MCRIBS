@@ -62,3 +62,150 @@ MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
 
 ITK version
 ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:28:53.094490
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:29:28.549434
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:32:18.073302
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+ITK version
+ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:32:28.360187
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+ITK version
+ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:32:38.487653
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+ITK version
+ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:38:28.684343
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+ITK version
+ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:39:01.510524
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+ITK version
+ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:40:19.595020
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+ITK version
+ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:40:29.830054
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+ITK version
+ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+
+	MCRIBNeckCrop sub001 volumepreserve
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:40:50.720193
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+ITK version
+ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+
+VTK version
+VTK git revision: 6f595f6c9664038882dbda02b11f192aee62e681
+--------------------------------------------
+
+	MCRIBNeckCrop sub001 volumepreserve
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:41:10.739822
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+ITK version
+ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+
+VTK version
+VTK git revision: 6f595f6c9664038882dbda02b11f192aee62e681
+--------------------------------------------
+
+	MCRIBNeckCrop sub001 volumepreserve
+--------------------------------------------
+MCRIBReconAll invocation
+--all sub001
+2023-03-06 16:42:46.176735
+MCRIBS git revision: c96f36b202483d82e951132e8d0324891f1f375e
+
+MIRTK version
+MIRTK git revision: c8e35554f1c23ef14a1c1c51b042e43f82fb44a7
+
+ITK version
+ITK git revision: 8be208ee1f04d09912523401e78ba7bb14a89d6f
+
+VTK version
+VTK git revision: 6f595f6c9664038882dbda02b11f192aee62e681
+--------------------------------------------
+
