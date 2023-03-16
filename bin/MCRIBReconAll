@@ -245,7 +245,7 @@ def main():
 
     ITKConfigFileName = None
 
-    for root, dirs, files in os.walk(os.path.join(scriptPath, '..', 'ITK', 'ITK','CMake')):
+    for root, dirs, files in os.walk(os.path.join(scriptPath, '..', '..','ITK', 'ITK','CMake')):
         if "ITKConfig.cmake.in" in files:
             ITKConfigFileName = os.path.join(root, "ITKConfig.cmake.in")
             print("HERE")
@@ -294,7 +294,7 @@ def main():
 
     VTKConfigFileName = None
 
-    for root, dirs, files in os.walk(os.path.join(scriptPath, '..', 'VTK', 'VTK-install')):
+    for root, dirs, files in os.walk(os.path.join(scriptPath, '..', '..','VTK', 'VTK-install')):
         if "VTKConfig.cmake" in files:
             VTKConfigFileName = os.path.join(root, "VTKConfig.cmake")
             break
